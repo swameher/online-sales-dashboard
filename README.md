@@ -4,7 +4,7 @@
 </h2>
 
 <div align="center">
-  <img alt="Dashboard Preview" src="dashboard.png" />
+  <img alt="Dashboard Preview" src="dashboard.png" width = "60%"/>
 </div>
 
 <br/>
